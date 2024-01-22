@@ -42,7 +42,7 @@ Note that if your shortcut name has a space (or certain other special characters
 
 For example, if your shortcut name has a space in it, you will need to replace spaces with the characters `%20` in your URL
 
-As an example, if your shortcut name is `PixInsight BlurXTerminator, you'll need to specify the URL this way:
+As an example, if your shortcut name is `PixInsight BlurXTerminator`, you'll need to specify the URL this way:
 ```
 shortcuts://run-shortcut?name=PixInsight%20BlurXTerminator
 ```
